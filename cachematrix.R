@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+
 
 ## This function is my submission for the assignment of the third week of the  R programming course in coursera
 ## my gethub username : kasmianass; submitted in 04/2020.
